@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  
+  <img align src="https://github-readme-streak-stats.herokuapp.com/?user=mukulvjain1&" height="150" alt="mukulvjain1" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulvjain1&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="languages graph" />
   <br>
  
