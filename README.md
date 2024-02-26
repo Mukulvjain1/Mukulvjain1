@@ -1,19 +1,16 @@
-
-
-### <h2 align="left">Hi 👋! My name is Mukul and <br> I'm a Frontend Developer</h2>
-
+<h2 align="left">Hi 👋! My name is Mukul and <br> I'm a Frontend Developer</h2>
 
 
 <div align="center">
-  <img align src="https://github-readme-streak-stats.herokuapp.com/?user=mukulvjain1&" height="150" alt="mukulvjain1" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mukulvjain1&" height="150" alt="mukulvjain1" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulvjain1&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="languages graph" />
   <br>
  
 </div>
 
 
+<div><img align="right"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" height="250" ></div>
 
-<img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"  />
 
 ###
 <div align="left">
@@ -52,8 +49,6 @@
 
 
 ###
-
-<br clear="both">
 
 
 
